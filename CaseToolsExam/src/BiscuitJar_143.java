@@ -5,5 +5,9 @@ public class BiscuitJar_143 {
 	 {
 		 this.num_biscuits=num_biscuits;
 	 }
+	int get_biscuit_count()
+	{
+		return num_biscuits;
+	}
 
 }
